@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">SyShop is a web application created to help small businesses. With SyShop, entrepreneurs have a tool to start in ecommerce.</p>
+<p align="left">SyShop is a web application created to help small businesses. With SyShop, entrepreneurs have a tool to start in ecommerce and sell as quickly as possible.</p>
 
 ###
 
